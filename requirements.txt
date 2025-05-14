@@ -1,0 +1,16 @@
+cassandra-driver
+transformers
+faiss-cpu  # Or faiss-gpu if you have GPU support
+torch
+requests
+pandas
+numpy
+scikit-learn
+sentence-transformers
+astrapy
+chromadb 
+openai 
+google-generativeai
+streamlit
+plotly
+matplotlib
