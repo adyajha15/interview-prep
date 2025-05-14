@@ -148,7 +148,7 @@ with st.sidebar:
 
     # API key input
     st.subheader("API Configuration")
-    api_key = st.text_input("Google Gemini API Key", "AIzaSyDRWSutSiXKGyjX40lvBuIlnNANEgcsCDY", type="password")
+    api_key = st.text_input("Google Gemini API Key", "Gemini_api_key", type="password")
 
     # Model selection
     st.subheader("Model Settings")
